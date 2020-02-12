@@ -1,5 +1,4 @@
 from operator import itemgetter
-from unittest import TestCase
 
 import boto3
 
